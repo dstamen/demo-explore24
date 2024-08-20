@@ -6,7 +6,6 @@ Build a Powershell Module at VMware Explore
 
 ```pwsh
 $version = "1.0.2"
-#$path = "/Users/dstamen/Documents/Github/demo-explore24/$version"
 $path = "C:\Users\david\Documents\Github\demo-explore24\$version"
 $manifestParams = @{
   Path = "$path\demo-explore24.psd1"
