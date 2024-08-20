@@ -9,16 +9,16 @@
 @{
 
 # Script module or binary module file associated with this manifest.
-RootModule = '/Users/dstamen/Documents/Github/HelloWorld/1.0.0\HelloWorld.psm1'
+RootModule = '/Users/dstamen/Documents/Github/demo-explore24/1.0.1\HelloWorld.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.0'
+ModuleVersion = '1.0.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
 
 # ID used to uniquely identify this module
-GUID = 'ca447b0b-c296-45ef-b1a5-e3d3f546d488'
+GUID = '16fca6f5-be32-45e0-9fc6-95aec2a07896'
 
 # Author of this module
 Author = 'David Stamen'
@@ -104,7 +104,7 @@ PrivateData = @{
         # ProjectUri = ''
 
         # A URL to an icon representing this module.
-        IconUri = 'https://github.com/dstamen/demo-explore24/blob/b94ceae1eca6aace90da20dc2454e78970cb0b4a/logo.png'
+        # IconUri = ''
 
         # ReleaseNotes of this module
         # ReleaseNotes = ''
@@ -120,7 +120,7 @@ PrivateData = @{
 
     } # End of PSData hashtable
 
- } # End of PrivateData hashtable
+} # End of PrivateData hashtable
 
 # HelpInfo URI of this module
 # HelpInfoURI = ''
